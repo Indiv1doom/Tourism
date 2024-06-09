@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer .container {
+  padding: 20px 0;
+}
+
+#about-content {
+  font-size: 18px;
+  color: #333;
+}
+
+
+#switch-lang {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
