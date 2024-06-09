@@ -48,7 +48,7 @@ cards.forEach(card => {
 let audio;
 document.getElementById('play-sound-btn').addEventListener('click', function() {
 if(!audio) {
-  const audio = new Audio('city.mp3');
+  const audio = new Audio('mp3/city.mp3');
   audio.play();
 } else {
 audio.pause();
